@@ -16,7 +16,7 @@
 
    1. Окно входа
 ![](https://github.com/Sarc-Kil/proect_6/blob/master/screnchot/Снимок6.1.PNG)
-   2. Окно входа(Ошибка ввода)
+   2. Окно регистрации
 ![](https://github.com/Sarc-Kil/proect_6/blob/master/screnchot/Снимок6.2.PNG)
       
 ## Установка
